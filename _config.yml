@@ -116,7 +116,7 @@ live2d:
     
 backup:
   type: git
-  theme: hexo-theme-spfk
+  theme: next #hexo-theme-spfk
   message: Back up my blog
   repository:
     github: git@github.com:34985086/34985086.github.io.git,backup
